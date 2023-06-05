@@ -12,6 +12,9 @@
 
 # Ways to contribute
 
+
+
+
 We would love you to contribute to this project. You can do so in various ways.
 
 
