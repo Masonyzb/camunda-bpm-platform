@@ -16,6 +16,9 @@ Camunda Platform 7 provides a rich set of components centered around the BPM lif
 
 #### Process Implementation and Execution
 
+
+
+
 - Camunda Engine - The core component responsible for executing BPMN 2.0 processes.
 - REST API - The REST API provides remote access to running processes.
 - Spring, CDI Integration - Programming model integration that allows developers to write Java Applications that interact with running processes.
