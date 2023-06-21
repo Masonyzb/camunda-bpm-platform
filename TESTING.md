@@ -21,6 +21,8 @@
     ...
   }
   ```
+
+  
 * Project `camunda-engine`: As an alternative to the above, you can extend extend the `org.camunda.bpm.engine.test.util.PluggableProcessEngineTest` class.
   The class already provides an instance of the `ProvidedProcessEngineRule`, as well as the `ProcessEngineTestRule` that
   provides some additional custom assertions and helper methods.
